@@ -4,7 +4,7 @@ We also have an example python app as well, to illustrate the instrumentation of
 Without further ado, let's get started.. 
 
 Let's look at the entire architecture diagram first. 
-![[Pasted image 20231202173234.png]]
+![[doc_images/Pasted image 20231202173234.png]]
 
 To be continue.. 
 
