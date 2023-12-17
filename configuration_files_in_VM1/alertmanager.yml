@@ -1,0 +1,18 @@
+global:
+  resolve_timeout: 5m
+  smtp_smarthost: 'smtp.gmail.com:587'
+  smtp_from: 'your-email@gmail.com'
+  smtp_auth_username: 'your-email@gmail.com'
+  smtp_auth_identity: 'your-email@gmail.com'
+  smtp_auth_password: 'your-app-password'
+
+route:
+  receiver: 'gmail-notifications'
+  repeat_interval: 3h
+  group_interval: 10m
+  group_wait: 10s
+
+receivers:
+  - name: 'gmail-notifications'
+    email_configs:
+      - to: 'recipient-email@example.com'

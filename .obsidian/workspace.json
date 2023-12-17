@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 349.5
   },
   "right": {
     "id": "728deb033c2ec4d7",
@@ -149,15 +149,31 @@
   },
   "active": "262fafff9fce7628",
   "lastOpenFiles": [
+    "configuration_files_in_VM2/short_lived_job.py",
+    "configuration_files_in_VM2/app.py",
+    "configuration_files_in_VM1/alertmanager.yml",
+    "configuration_files_in_VM1/prometheus.yml",
+    "configuration_files_in_VM1/alerting_rules.yml",
+    "configuration_files_in_VM2",
+    "configuration_files_in_VM1",
     "Excalidraw/overall_architecture.excalidraw",
-    "doc_images/overall_architecture.png",
-    "Excalidraw/Drawing 2023-12-02 16.19.08.excalidraw.md",
     "README.md",
+    "doc_images/prometheus_targets.png",
+    "doc_images/alert_firing_in_alertmanager.png",
+    "doc_images/alert_firing_in_prometheus.png",
+    "doc_images/alert_in_gmail_2.png",
+    "doc_images/alert_in_gmail_1.png",
+    "doc_images/prometheus_job_result.png",
+    "doc_images/pushgateway_example_batch_job.png",
+    "doc_images/python_app_running_in_VM2.png",
+    "doc_images/curl_python_app_from_VM1.png",
+    "doc_images/page_visits_total.png",
+    "grafana_configuration.png.md",
+    "netstat_tlun.png.md",
+    "Excalidraw/Drawing 2023-12-02 16.19.08.excalidraw.md",
     "doc_images/Pasted.md",
     "Excalidraw/Drawing 2023-12-02 15.29.48.excalidraw.md",
-    "doc_images/Pasted image 20231202153306.png",
     "doc_images",
-    "Pasted image 20231202153306.png",
     "Excalidraw"
   ]
 }
