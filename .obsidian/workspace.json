@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "262fafff9fce7628",
+            "id": "7221aeb80e8583bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,8 +147,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "262fafff9fce7628",
+  "active": "7221aeb80e8583bd",
   "lastOpenFiles": [
+    "9_Set_up_monitoring_and_alerting_with_prometheus_n_alertmanager_via_gmail_email.md",
+    "8_Creating_a_Python_script_for_a_short_lived_job_and_push_its_metrics_to_Pushgateway.md",
+    "7_Set_up_Python_App.md",
+    "6_Set_up_Node_exporter_in_VM2.md",
+    "5_Set_up_Service_Discovery.md",
+    "4_Set_up_Pustgateway.md",
+    "3_Set_up_Alertmanager.md",
+    "2_Set_up_Grafana.md",
+    "README.md",
+    "1_Set_up_Prometheus_Server.md",
+    "INSTALLATION.md",
     "configuration_files_in_VM2/short_lived_job.py",
     "configuration_files_in_VM2/app.py",
     "configuration_files_in_VM1/alertmanager.yml",
@@ -157,7 +168,6 @@
     "configuration_files_in_VM2",
     "configuration_files_in_VM1",
     "Excalidraw/overall_architecture.excalidraw",
-    "README.md",
     "doc_images/prometheus_targets.png",
     "doc_images/alert_firing_in_alertmanager.png",
     "doc_images/alert_firing_in_prometheus.png",
